@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=r_viictor08&title_color=ffff00&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=161B22" alt="Grafico de Postagens"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&custom_title=r_viictor08&title_color=fff0000&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=161B22" alt="Grafico de Postagens"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=161B22&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
     <img src="https://discord.c99.nl/widget/theme-4/818956310632464405.png"/>
     <hr>
@@ -15,6 +15,10 @@
     <hr>
 <h3>Redes Sociais :</h3>    
 <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  <br>
-<a href="https://www.instagram.com/r_viictor08/"> <img alt="Instagram" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQRHhZ87p3qwi6rXfrcH0ebQBbprjGcPYBg&usqp=CAU" height="59" width"70" w/></a>
+<br>
+<a href="https://www.instagram.com/r_viictor08/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<br>    
+
+
+
           
