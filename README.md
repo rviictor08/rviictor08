@@ -10,7 +10,7 @@
 <hr>
 
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4)" width="100px;" alt="gg"/>
+  <img src="[[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4)](https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4)" width="100px;" alt="gg"/>
   <h3>Raul Paiva</h3>
   <p>Status: Offline</p>
   <p><i>Last seen: 1 months ago</i></p>
@@ -56,6 +56,3 @@
 
 ---
 
-<div align="center">
-  ⭐ Total Stars Earned: [![GitHub stars](https://img.shields.io/github/stars/fwoliveira?style=flat)](https://github.com/fwoliveira)
-</div>
