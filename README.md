@@ -1,7 +1,5 @@
-<h1 align="center">👾 Opa, eu sou o Raul Paiva 👋</h1>
-
 <p align="center">
-  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; display: inline-block;">
+  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
     <img src="https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4" 
          alt="Raul Paiva" 
          width="150" 
@@ -9,6 +7,8 @@
          style="object-fit: cover;"/>
   </div>
 </p>
+
+<h1 align="center">👾 Opa, eu sou o Raul Paiva 👋</h1>
 
 ---
 
