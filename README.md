@@ -62,10 +62,11 @@ Algumas das tecnologias e ferramentas que mais utilizo e com as quais tenho bast
   <a href="mailto:raulvictor008@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://wa.me/seunumerowhatsapp](https://wa.me/5519978195240?text=Ola!%20Estou%20vindo%20pelo%20seu%20GitHub%20%F0%9F%98%80)" target="_blank">
+  <a href="https://wa.me/5519978195240?text=Ola!%20Estou%20vindo%20pelo%20seu%20GitHub%20%F0%9F%98%80" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
