@@ -3,8 +3,8 @@
 <hr>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaulPaiva-dev&show_icons=true&theme=radical&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulPaiva-dev&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&theme=radical&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <hr>
@@ -53,5 +53,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
-
----
