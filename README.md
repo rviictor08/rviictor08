@@ -10,7 +10,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4" width="100px;" alt="Raul Paiva"/>
+  <img src="https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4"  border-radius="50%" width="100px;" alt="Raul Paiva"/>
   <h3>Raul Paiva</h3>
   <p>Status: Offline</p>
   <p><i>Last seen: 1 months ago</i></p>
