@@ -3,14 +3,14 @@
 <hr>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fwoliveira&show_icons=true&theme=radical&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwoliveira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaulPaiva-dev&show_icons=true&theme=radical&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulPaiva-dev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <hr>
 
 <div align="center">
-  <img src="[[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4)](https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4)" width="100px;" alt="gg"/>
+  <img src="https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4" width="100px;" alt="Raul Paiva"/>
   <h3>Raul Paiva</h3>
   <p>Status: Offline</p>
   <p><i>Last seen: 1 months ago</i></p>
@@ -55,4 +55,3 @@
 </div>
 
 ---
-
