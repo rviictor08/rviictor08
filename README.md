@@ -5,8 +5,9 @@
        alt="Raul Paiva" 
        width="150" 
        height="150" 
-       style="border-radius: 50%; object-fit: cover;"/>
+       style="border-radius: 50%; overflow: hidden;"/>
 </p>
+
 
 
 ---
