@@ -1,6 +1,6 @@
 
 <h1 align="center">👾 Sejam Bem-Vindos!! Eu sou o Raul Paiva 👋</h1>
----
+
 ## 🖥️ Sobre mim
 
 Olá! Sou o Raul Paiva, desenvolvedor focado em web, apaixonado por tecnologia e design. Busco sempre me aprimorar e explorar novas stacks e ferramentas, com o objetivo de criar soluções eficientes e criativas.
