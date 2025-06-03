@@ -1,13 +1,6 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/92065579?s=400&u=4fffb7bd4a57846bf9c31622dd363cc8748e53f0&v=4" 
-       alt="Raul Paiva" 
-       width="300" 
-       border-radius: 50%;"/>
-</p>
-<h1 align="center">👾 Opa, eu sou o Raul Paiva 👋</h1>
 
+<h1 align="center">👾 Sejam Bem-Vindos!! Eu sou o Raul Paiva 👋</h1>
 ---
-
 ## 🖥️ Sobre mim
 
 Olá! Sou o Raul Paiva, desenvolvedor focado em web, apaixonado por tecnologia e design. Busco sempre me aprimorar e explorar novas stacks e ferramentas, com o objetivo de criar soluções eficientes e criativas.
